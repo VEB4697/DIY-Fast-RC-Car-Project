@@ -60,7 +60,7 @@ Contains the gears and axle parts that transmit power from the electric motor to
   * **Infill**: **100% Infill** is mandatory for both the pinion and spur gear.
   * **Resolution**: Use **0.1mm - 0.12mm layer height** (fine layer) for precise tooth engagement.
 
-### 3. 转向/悬挂 Steering Assembly (`/3D printing Files/Steering`)
+### 3.Steering Assembly (`/3D printing Files/Steering`)
 Controls the direction of the front wheels and provides suspension support.
 * **Files**:
   * **[Servo Mount.stl](file:///d:/DIY%20Fast%20RC%20Car%20Project/3D%20printing%20Files/Steering/Servo%20Mount.stl)**: Holds the steering servo motor securely to the chassis.
