@@ -1,4 +1,4 @@
-# 转向/悬挂 Steering & Suspension Components
+# Steering & Suspension Components
 
 This folder contains the 3D printable components responsible for steering control, front suspension attachment, and servo integration.
 
